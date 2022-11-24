@@ -8,7 +8,7 @@
 
 ## Bemutatás
 
-Az alkalmazás Java nyelven íródik Gradle build tool segítségével.
+
 
 Az alkalmazás lényege az, hogy mutat képeket egy grafikus felületen a felhasználónak, akinek ki kell találnia,
 milyen csoporthoz tartozik az a kép, egy az adott csoporthoz csatolt gombra(jobb és ball klikk ebben a megvalósításban) való kattintással.
@@ -23,6 +23,8 @@ változókkal vagy a grafikus felületen gombnyomással történjen).
 
 Az alkalmazás kezdetleges megvalósításában Állatok és Játékállatok csoportjai vannak. Egy menet hossza 10 randomizáltan
 előhozott kép( ezt később megváltoztathatóvá lehet tenni, a képek számosságához képest, a grafikus felületen megadva)
+
+Az alkalmazás Java nyelven íródik Gradle build tool segítségével.
 
 Későbbi ötletek még: 
 
